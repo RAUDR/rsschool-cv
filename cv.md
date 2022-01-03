@@ -11,5 +11,6 @@
     * HTML, 
     * CSS, 
     * GIT. 
-There were attempts to study PYTHON, but it became uninteresting because the result of the work was not visible.
-##### My level of English is upper-Intermediate
+##### There were attempts to study PYTHON, but it became uninteresting because the result of the work was not visible.
+##### My level of English is upper-Intermediate.
+##### I can work in stressful situations. I am sociable and friendly. I love to learn something new and develop. My soft skills are still better than development skills. But this is temporary :) 
