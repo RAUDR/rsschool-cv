@@ -1,6 +1,7 @@
 # LAPUSTA DZMITRY
-[Instagram](https://www.instagram.com/dmitrylapusta/) 
-My number: +375256330323 My email: dzmitrylapusta@gmail.com
+![Это опциональный alt-текст](https://sun9-19.userapi.com/impg/c857636/v857636349/155f00/tw8BAj3L-Y0.jpg?size=2048x1441&quality=96&sign=885614779d20437dc0b606fe3dc330ce&type=album)
+### [Instagram](https://www.instagram.com/dmitrylapusta/) 
+### My number: +375256330323 My email: dzmitrylapusta@gmail.com
 Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
 Примеры кода
