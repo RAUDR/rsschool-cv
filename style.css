@@ -6,9 +6,10 @@
 .text-block {
     background-color: rgb(75, 75, 133);
     display: block;
-    width: 310px;
+    width: 600px;
     height: 35px;
     overflow: hidden;
+    text-align: center;
 }
 
 
