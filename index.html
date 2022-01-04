@@ -4,14 +4,110 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>VSCode</title>
-</head>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="icon" href="./assets/img/icon.ico">
+    <title>Dmitry Lapusta CV</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Spline+Sans:wght@300&display=swap" rel="stylesheet">
+   </head>
 <body>
-    <article>
-        <p><span class="text-block">Hello world!</span></p>
-
-    </article>
-    <p><img src="images/ya.jpg" width="600" height="600" alt="Моя аватарка"></p>
+    <header class="header">
+        <div class="container header-container">
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#about" class="nav-link">About</a></li>
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#experience" class="nav-link">Experience</a></li>
+                    <li class="nav-item"><a href="#code" class="nav-link">Code</a></li>
+                    <li class="nav-item"><a href="#projects" class="nav-link">Projects</a></li>
+                    <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main class="main"> 
+        <div class="container main-container">
+            <section class="section" id="contacts">
+                <h1 class="section-title">Lapusta Dzmitry</h1>
+                <img src="./images/ya.jpg" width="250" height="250" alt="my foto">
+                <p> My Contacts </p>
+                <ul>
+                    <li>Telegram: @raudred</li>
+                    <li>GitHub: RAUDR</li>
+                    <li>Discord: ????</li>
+                </ul>  
+            </section>
+            <section class="section" id="skills">
+                <h2 class="section-title"> Skills </h2>
+                <ul>
+                    <li>Professions
+                        <ul>
+                            <li>CSS</li>
+                            <li>Version control-Git</li>
+                            <li>JavaScript</li>
+                            <li>HTML</li>
+                        </ul>
+                    </li>
+                    <li> Personal
+                        <ul>
+                            <li>Sociability</li>
+                            <li>Responsibility</li>
+                            <li>Leadership</li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
+            <section class="section" id="about">
+                <h2 class="section-title"> About me </h2>
+                <p>I was born in Belarus in Kalinkovichi town in 1994. Since childhood, I have loved to do everything related to computers and technology. I have no real development experience in company. But I’ve always had a bit of a connection to it. I love flashing different devices. Change the program code. As a child, I had the experience of creating a server for the Lineage 2 game based on Java and MySQL.</p>
+            </section>
+            <section class="section" id="experience">
+                <h2 class="section-title"> Experience </h2>
+                <ul>
+                    <li> Now I work as a shift supervisor for a power plant in the electrical department. Since 2016, this is my only place of work. </li>
+                    
+                </ul>
+            </section>
+            <section class="section" id="education">
+                <h2 class="section-title"> Education </h2>
+                <ul>
+                    <li> I entered the Gomel State University named after P.O. Sukhoi at the Faculty of Energy. In 2016, I completed my bachelor’s degree and entered the master’s degree in the same specialty at the same university. In 2018, I continued my studies already in graduate school. </li>
+                    <li> RS-School, JavaScript/Front-end. Stage 0 </li>
+                </ul>
+            </section>
+            <section class="section" id="code">
+                <h2 class="section-title"> Code </h2>
+                <p>
+                    <code>
+                        console.log('Hello, World!');
+                    </code>
+                </p>
+            </section>
+            <section class="section" id="projects">
+                <h2 class="section-title"> Projects </h2>
+                <p><a href="https://raudr.github.io/rsschool-cv/">My first project CV</a></p>
+            </section>
+            <section class="section" id="languages">
+                <h2 class="section-title"> Languages </h2>
+                <ul>
+                    <li> English A2 — Pre-Intermediate </li>
+                    <li> Belorussian (native)</li>
+                    <li> Russian </li>
+                </ul>
+            </section>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container footer-container">
+            <div>
+                2022
+                <a href="https://github.com/raudr" class="github nav-link">RAUDR on GIT</a>
+            </div>
+            <a href="https://rs.school/js/" class="rss"></a>
+        </div>
+    </footer>
 </body>
 </html>
